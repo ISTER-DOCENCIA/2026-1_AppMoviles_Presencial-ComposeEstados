@@ -61,7 +61,7 @@ fun PantallaInicio() {
         verticalArrangement = Arrangement.Center
     ) {
         Text(
-            text = "App Interactiva",
+            text = "App Interactiva V2",
             fontSize = 26.sp,
             fontWeight = FontWeight.Bold
         )
